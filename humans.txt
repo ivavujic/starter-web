@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ivan Vujić ivavujic@gmail.com @ivavujic
+	Zorica Vujić zvujic@pharmacy.bg.ac.rs @zoki
+	
 
 # THANKS
 
